@@ -81,5 +81,5 @@ print(reshaped_array)
 
 For questions or feedback, please reach out to:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-github-profile](https://github.com/your-github-profilr
+- Email: [your-email@example.com](gummalajayanth.22.csd@anits.edu.in)
+- GitHub: [your-github-profile](https://github.com/gummalajayanth28)
