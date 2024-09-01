@@ -75,11 +75,4 @@ print(reshaped_array)
 ## Acknowledgements
 
 - NumPy: The primary library used for numerical computations and array operations.
-- Jupyter: For providing interactive computing environments.
-
-## Contact
-
-For questions or feedback, please reach out to:
-
-- Email: [your-email@example.com](gummalajayanth.22.csd@anits.edu.in)
-- GitHub: [your-github-profile](https://github.com/gummalajayanth28)
+- Jupyter: For providing interactive computing environment 
